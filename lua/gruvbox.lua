@@ -363,7 +363,7 @@ local function get_groups()
     DiffDelete = { bg = colors.dark_red },
     DiffAdd = { bg = colors.dark_green },
     DiffChange = { bg = colors.dark_aqua },
-    DiffText = { bg = colors.yellow, fg = colors.bg0 },
+    DiffText = { bg = colors.yellow },
     SpellCap = { link = "GruvboxBlueUnderline" },
     SpellBad = { link = "GruvboxRedUnderline" },
     SpellLocal = { link = "GruvboxAquaUnderline" },
